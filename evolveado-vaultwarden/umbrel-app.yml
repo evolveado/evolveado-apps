@@ -1,0 +1,19 @@
+id: "evolveado-vaultwarden"
+name: "Vaultwarden"
+tagline: "Lightweight Bitwarden server"
+icon: "https://raw.githubusercontent.com/getumbrel/umbrel-apps-gallery/master/vaultwarden/icon.svg"
+category: "security"
+
+version: "1.35.1"
+port: 8080
+
+description: >
+  Vaultwarden is a lightweight Bitwarden compatible password manager server.
+
+developer: "Vaultwarden"
+website: "https://github.com/dani-garcia/vaultwarden"
+repo: "https://github.com/dani-garcia/vaultwarden"
+support: "https://github.com/dani-garcia/vaultwarden/issues"
+
+gallery:
+  - https://raw.githubusercontent.com/getumbrel/umbrel-apps-gallery/master/vaultwarden/1.jpg
